@@ -1,0 +1,22 @@
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color: whitesmoke;
+}
+a{
+    color: whitesmoke;
+}
+.main{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    background-color: gray;
+    border: 2px solid blue;
+    margin: 2px;
+    width: auto;
+}
+
+h2{
+    font-size: smaller;
+}
